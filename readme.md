@@ -3,7 +3,7 @@
 ### I'm milkshakedeamora👋
 
 ![GitHub Streak](https://github-readme-streak-stats-sigma-eight.vercel.app?user=milkshakedeamora&theme=vue-dark&locale=pt_BR)
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MILKSHAKEDEAMORA&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=10&theme=dracula&hide_border=false&order=2" height="195" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MILKSHAKEDEAMORA&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=10&theme=vue-dark&hide_border=false&order=2" height="195" alt="languages graph"  />
   <br> <br>
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
