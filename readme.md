@@ -1,6 +1,6 @@
 <div align= "center">
   
-### I'm milkshakedeamora👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=26A69A&vCenter=true&random=false&width=435&lines=Oi!+Eu+sou+Milkshakedeamora;Aspirante+a+Desenvolvedora+FullStack)](https://git.io/typing-svg)
 
 ![GitHub Streak](https://github-readme-streak-stats-sigma-eight.vercel.app?user=milkshakedeamora&theme=vue-dark&locale=pt_BR)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MILKSHAKEDEAMORA&locale=en&hide_title=false&layout=compact&card_width=300&langs_count=10&theme=vue-dark&hide_border=false&order=2" height="195" alt="languages graph"  />
