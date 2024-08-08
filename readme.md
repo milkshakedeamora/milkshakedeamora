@@ -34,6 +34,4 @@
 <a href="https://leetcode.com/milkshakedeamora" target="_blank"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" ></a> 
 <a href="https://profile.codersrank.io/user/milkshakedeamora" target="_blank"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" ></a> 
 
-<img src="https://raw.githubusercontent.com/MILKSHAKEDEAMORA/MILKSHAKEDEAMORA/output/snake.svg" alt="Snake animation" />
-
 </div>
