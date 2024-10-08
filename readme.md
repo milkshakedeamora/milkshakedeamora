@@ -4,7 +4,7 @@
 
 </div>
 🌟 Aspirante a Desenvolvedora FullStack.<br>
-🎓 Estudante de Ciência da Computação e Análise e Desenvolvimento de Sistemas <br><br>
+🎓 Estudante de Ciência da Computação e Análise / Desenvolvimento de Sistemas e Cadete em 42SP <br><br>
 
 # 🌱 Estou Aprendendo : <br>
 <div align ="center">
